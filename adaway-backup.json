@@ -1,0 +1,73 @@
+{
+    "sources": [
+        {
+            "url": "https:\/\/adaway.org\/hosts.txt",
+            "enabled": true
+        }
+    ],
+    "blocked": [
+        {
+            "host": "ad2iction.com",
+            "enabled": true
+        },
+        {
+            "host": "adkmob.com",
+            "enabled": true
+        },
+		{
+            "host": "ads.flurry.com",
+            "enabled": true
+        },
+        {
+            "host": "ads.mopub.com",
+            "enabled": true
+        },
+        {
+            "host": "adsapi.manhuaren.com",
+            "enabled": true
+        },
+        {
+            "host": "data.flurry.com",
+            "enabled": true
+        },
+        {
+            "host": "googleads.g.doubleclick.net",
+            "enabled": true
+        },
+        {
+            "host": "qc.mlion.cn",
+            "enabled": true
+        },
+        {
+            "host": "s.mlion.cn",
+            "enabled": true
+        },
+        {
+            "host": "tkmedia.aotter.net",
+            "enabled": true
+        },
+        {
+            "host": "tkmftc.aotter.net",
+            "enabled": true
+        },
+        {
+            "host": "tktracker.aotter.net",
+            "enabled": true
+        },
+        {
+            "host": "tpc.googlesyndication.com",
+            "enabled": true
+        }
+    ],
+    "allowed": [
+        {
+            "host": "s.click.taobao.com",
+            "enabled": true
+        },
+        {
+            "host": "www.google-analytics.com",
+            "enabled": true
+        }
+    ],
+    "redirected": []
+}
